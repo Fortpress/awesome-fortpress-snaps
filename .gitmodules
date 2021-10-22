@@ -4,3 +4,6 @@
 [submodule "snap_git_sync"]
 	path = snap_git_sync
 	url = https://github.com/Fortpress/snap_git_sync
+[submodule "snap_server_peripheral-s"]
+	path = snap_server_peripheral-s
+	url = https://github.com/raufig/snap_server_peripheral-s
