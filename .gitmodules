@@ -1,9 +1,11 @@
 [submodule "snap_files_editor"]
 	path = snap_files_editor
 	url = https://github.com/Fortpress/snap_files_editor
+	branch = main
 [submodule "snap_git_sync"]
 	path = snap_git_sync
 	url = https://github.com/Fortpress/snap_git_sync
+	branch = main
 [submodule "snap_server_peripheral-s"]
 	path = snap_server_peripheral-s
 	url = https://github.com/raufig/snap_server_peripheral-s/
