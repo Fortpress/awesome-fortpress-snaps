@@ -14,3 +14,7 @@
 	path = snap_minifier
 	url = https://github.com/Fortpress/snap_minifier
 	branch = main
+[submodule "snap_security"]
+	path = snap_security
+	url = https://github.com/Fortpress/snap_security
+	branch = main
