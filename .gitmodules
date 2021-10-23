@@ -10,3 +10,7 @@
 	path = snap_server_peripheral-s
 	url = https://github.com/raufig/snap_server_peripheral-s/
 	branch = main
+[submodule "snap_minifier"]
+	path = snap_minifier
+	url = https://github.com/Fortpress/snap_minifier
+	branch = main
