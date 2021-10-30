@@ -18,3 +18,7 @@
 	path = snap_security
 	url = https://github.com/Fortpress/snap_security
 	branch = main
+[submodule "snap_websocket_example"]
+	path = snap_websocket_example
+	url = https://github.com/Fortpress/snap_websocket_example
+	branch = main
