@@ -22,3 +22,6 @@
 	path = snap_websocket_example
 	url = https://github.com/Fortpress/snap_websocket_example
 	branch = main
+[submodule "snap-realtime-logs"]
+	path = snap-realtime-logs
+	url = https://github.com/Fortpress/snap-realtime-logs
