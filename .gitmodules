@@ -25,3 +25,6 @@
 [submodule "snap-realtime-logs"]
 	path = snap-realtime-logs
 	url = https://github.com/Fortpress/snap-realtime-logs
+[submodule "snap_realtime_tracking"]
+	path = snap_realtime_tracking
+	url = https://github.com/Fortpress/snap_realtime_tracking
