@@ -28,3 +28,6 @@
 [submodule "snap_realtime_tracking"]
 	path = snap_realtime_tracking
 	url = https://github.com/Fortpress/snap_realtime_tracking
+[submodule "snap_video_streaming"]
+	path = snap_video_streaming
+	url = https://github.com/Fortpress/snap_video_streaming
